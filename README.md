@@ -45,11 +45,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aishvariyaa/team-portfolio.git
+   git clone https://github.com/Aishvariyaa/Zencoders.git
 
 2. Navigate into the project folder:
 
-cd team-portfolio
+cd Zencoders
 
 
 3. Open index.html in your browser.
