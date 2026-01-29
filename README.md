@@ -1,10 +1,10 @@
-# 🌐 Zencoders Team Portfolio
+# Zencoders Team Portfolio
 
 Welcome to the official team portfolio page of **Zencoders** – a passionate group of tech enthusiasts collaboratively learning and building using HTML, CSS, and Bootstrap!
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Name              | Role         | GitHub Profile                               |
 |-------------------|--------------|----------------------------------------------|
@@ -15,17 +15,17 @@ Welcome to the official team portfolio page of **Zencoders** – a passionate gr
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Responsive layout with **Bootstrap 5**
-- ✅ Stylish profile cards with **animated gradient borders**
-- ✅ Smooth **hover effects**
-- ✅ Fully mobile-friendly
-- ✅ Clean and intuitive interface
+- Responsive layout with **Bootstrap 5**
+- Stylish profile cards with **animated gradient borders**
+- Smooth **hover effects**
+- Fully mobile-friendly
+- Clean and intuitive interface
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -33,13 +33,13 @@ Welcome to the official team portfolio page of **Zencoders** – a passionate gr
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 zencoders-portfolio/ ├── index.html ├── css/ │   └── style.css ├── images/ │   ├── aadhityan.jpg │   ├── aishvariyaa.jpg │   ├── gnanamoorthi.jpg │   ├── delina.jpg │   └── preview.jpg
 
 ---
 
-## 💡 Getting Started
+## Getting Started
 
 To run this project locally:
 
@@ -58,13 +58,13 @@ cd Zencoders
 
 ---
 
-📜 License
+License
 
 This project is open source and available under the MIT License.
 
 
 ---
 
-📬 Contact
+Contact
 
 For queries, contributions, or feedback, reach out to any of the team members via their GitHub profiles above.
